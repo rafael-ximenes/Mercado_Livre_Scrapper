@@ -33,4 +33,4 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull r
 
 ## Importante
 1. O programa foi testado no dia 15/11/2023 e caso o site do Mercado Livre mude sua estrutura pode acontecer de o programa não mais funcionar.
-2. O script utiliza o navegador Microsoft Edge, caso você não o tenha instalado em seu computador o script não irá funcionar. Você pode mudar o navegador utilizado na linha 18 do código.
+2. O script utiliza o navegador Microsoft Edge, caso você não o tenha instalado em seu computador o script não irá funcionar. Você pode mudar o navegador utilizado na linha do código na qual o driver recebe o webdriver.Edge().
